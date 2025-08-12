@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="45">
 </h1>  
   
-I am an **Undergrad** student at [Technical University of Crete](www.tuc.gr)
+I am an **FPGA and Embdedded Systems engineer** at [OHB Hellas](https://www.ohb-hellas.gr/)
 
 <!-- # Programming Languages
 <p>
